@@ -1,6 +1,6 @@
-0   Pu
-1   Ca
-2   NAC
+0   Pu   268
+1   Ca   269
+2   NAC  270
 3   EXA
 4   GPe
 5   GPi
