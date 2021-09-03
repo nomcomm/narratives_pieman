@@ -24,7 +24,4 @@ Data and analysis code for  *FINAL TITLE* [link](http://www.todo.pdf)
 -   see environment file
 
 
--   We thank the team from [eeg-notebooks](https://github.com/NeuroTechX/eeg-notebooks) for their fantastic work to democratize the cognitive neuroscience experiment.
-
-
 2021 | X
