@@ -23,4 +23,4 @@ Data and analysis code for  *Schmälzle, R., Wilcox, S., & Jahn, N. T.. (in pres
 -   see environment file
 
 
-2021 | X
+2021 | Ralf Schmaelzle
