@@ -1,8 +1,7 @@
-Analysis for {authors blinded} (submitted)
+Analysis for Schmälzle, Wilcox, & Jahn (in press)
 =============================================
 
-Data and analysis code for  *FINAL TITLE* [link](http://www.todo.pdf)
-
+Data and analysis code for  *Schmälzle, R., Wilcox, S., & Jahn, N. T.. (in press). Identifying Moments of Peak Audience Engagement from Brain Responses During Story Listening. Communication Monographs.* [link](http://www.todo.pdf)
 
 ***
 
