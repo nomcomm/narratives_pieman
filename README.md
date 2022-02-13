@@ -1,7 +1,7 @@
-Analysis for Schmälzle, Wilcox, & Jahn (in press)
+Analysis for Schmälzle, Wilcox, & Jahn (2022)
 =============================================
 
-Data and analysis code for  *Schmälzle, R., Wilcox, S., & Jahn, N. T.. (in press). Identifying Moments of Peak Audience Engagement from Brain Responses During Story Listening. Communication Monographs.* [link](http://www.todo.pdf)
+Data and analysis code for  *Schmälzle, R., Wilcox, S., & Jahn, N. T.. (2022). Identifying Moments of Peak Audience Engagement from Brain Responses During Story Listening. Communication Monographs.* [link](https://www.tandfonline.com/doi/full/10.1080/03637751.2022.2032229)
 
 ***
 
@@ -23,4 +23,4 @@ Data and analysis code for  *Schmälzle, R., Wilcox, S., & Jahn, N. T.. (in pres
 -   see environment file
 
 
-2021 | Ralf Schmaelzle
+2021- | Ralf Schmaelzle
